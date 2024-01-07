@@ -2,7 +2,11 @@
 
 Text Analysis and Visualization Tools Automatically Online
 
-<iframe src="https://bemorebitcoin.shinyapps.io/TextVisualisations/" title="Text Analysis Upload"></iframe>
+<br>
+<p align="center">
+<button onclick="window.open('https://bemorebitcoin.shinyapps.io/TextVisualisations/')">Upload Text</button>
+</p>
+<br>
 
 Our text analysis tool helps you to learn more about what people are saying, more than just looking at the numbers or only reading the comments. We can aggregate and group words and themes in sentences to help bring out more information. It can also help to give ideas on additional areas to investigate. Common words across large sections of text or words that are often seen together are highlighted.
 
