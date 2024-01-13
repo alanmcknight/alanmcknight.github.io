@@ -1,0 +1,7 @@
+# Site settings
+title: Major Text Analysis
+author:
+  name: Alan
+description: "Text analysis and visualisation tool."
+
+remote_theme: jekyll/minima
