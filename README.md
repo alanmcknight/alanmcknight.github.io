@@ -1,10 +1,15 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-Major Text Analysis Miner
+### Major Text Analysis Miner
 
 Text Analysis and Visualization Tools Automatically Online
 
 <iframe src="https://bemorebitcoin.shinyapps.io/TextVisualisations/" title="text analysis tool"></iframe>
+
+<br>
+<br>
+
+<iframe src="https://bemorebitcoin.shinyapps.io/TextVisualisations/" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:200px;width:100%;border:none;overflow:hidden;"></iframe>
 
 <br>
 <br>
