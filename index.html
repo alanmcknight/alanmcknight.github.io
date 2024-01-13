@@ -9,7 +9,12 @@
 <br>
 No strings attached except for the ones you upload! Upload your data in csv format below. One column with each row representating a sentence or phrase.
 <br>
-<iframe src="https://bemorebitcoin.shinyapps.io/TextVisualisations/" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:500px;width:100%;border:none;overflow:hidden;"></iframe>
+<iframe id="textvisualisation" src="https://bemorebitcoin.shinyapps.io/TextVisualisations/" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:500px;width:100%;border:none;overflow:hidden;"></iframe>
+<script>
+   var iframe = document.getElementById("textvisualisation");
+   iframe.width = iframe.contentWindow.document.body.scrollWidth;
+   iframe.height = iframe.contentWindow.document.body.scrollHeight;
+</script>
 <br>
 <br>
 <p align="center">
